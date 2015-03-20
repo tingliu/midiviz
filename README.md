@@ -1,5 +1,4 @@
 # midiviz
-midiviz: from MIDI to staff.
 
 A MATLAB library that visualizes MIDI files by drawing staves.
 
